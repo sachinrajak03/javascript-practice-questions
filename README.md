@@ -1,1 +1,2 @@
-# javascript-practice-questions 
+# javascript-questions
+
